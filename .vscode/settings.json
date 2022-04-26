@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "mb_config.h": "c",
+        "mb_tcp_slave.h": "c"
+    }
+}
